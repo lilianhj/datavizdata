@@ -1,0 +1,793 @@
+,Month,Country,value
+330,April,Cambodia,0
+294,April,Uganda,0
+102,April,Ethiopia,3
+306,April,Zimbabwe,0
+678,April,Kuwait,0
+570,April,Jamaica,3
+318,April,Burma,507
+90,April,Eritrea,176
+558,April,Honduras,0
+762,April,Turkey,0
+582,April,Afghanistan,114
+342,April,China,0
+546,April,Guatemala,4
+354,April,Indonesia,1
+690,April,Lebanon,0
+366,April,"Korea, North",0
+66,April,Congo,0
+378,April,Vietnam,7
+534,April,El Salvador,11
+54,April,Chad,0
+390,April,Armenia,0
+78,April,Dem. Rep. Congo,1135
+702,April,Nepal,0
+282,April,Togo,0
+666,April,Jordan,0
+642,April,Iraq,66
+738,April,Sri Lanka (Ceylon),0
+186,April,Malawi,0
+162,April,Kenya,1
+774,April,United Arab Emirates,0
+630,April,Iran,33
+198,April,Mali,0
+210,April,Republic of South Sudan,14
+150,April,Ivory Coast,2
+114,April,Gambia,0
+618,April,Egypt,0
+654,April,Israel,0
+138,April,Guinea,0
+234,April,Senegal,2
+606,April,Bhutan,0
+246,April,Sierra Leone,0
+126,April,Ghana,0
+258,April,Somalia,25
+594,April,Bangladesh,1
+270,April,Sudan,44
+222,April,Rwanda,7
+786,April,Yemen,0
+174,April,Liberia,0
+750,April,Syria,68
+426,April,Kazakhstan,0
+498,April,Uzbekistan,0
+438,April,Kyrgyzstan,0
+462,April,Russia,52
+414,April,Georgia,0
+522,April,Cuba,2
+18,April,Burundi,15
+30,April,Cameroon,0
+714,April,Pakistan,11
+6,April,Benin,0
+450,April,Moldova,5
+510,April,Colombia,3
+486,April,Ukraine,278
+42,April,Central African Republic,54
+474,April,Turkmenistan,0
+402,April,Belarus,3
+726,April,Palestine,6
+262,August,Somalia,25
+106,August,Ethiopia,14
+442,August,Kyrgyzstan,0
+766,August,Turkey,1
+718,August,Pakistan,5
+274,August,Sudan,38
+118,August,Gambia,0
+742,August,Sri Lanka (Ceylon),0
+586,August,Afghanistan,236
+46,August,Central African Republic,0
+22,August,Burundi,15
+670,August,Jordan,0
+754,August,Syria,30
+502,August,Uzbekistan,0
+286,August,Togo,0
+238,August,Senegal,8
+130,August,Ghana,0
+166,August,Kenya,0
+634,August,Iran,15
+478,August,Turkmenistan,0
+190,August,Malawi,0
+646,August,Iraq,36
+490,August,Ukraine,729
+202,August,Mali,1
+154,August,Ivory Coast,5
+622,August,Egypt,0
+214,August,Republic of South Sudan,5
+10,August,Benin,0
+226,August,Rwanda,2
+466,August,Russia,5
+778,August,United Arab Emirates,0
+142,August,Guinea,2
+610,August,Bhutan,3
+658,August,Israel,0
+454,August,Moldova,11
+250,August,Sierra Leone,0
+598,August,Bangladesh,0
+298,August,Uganda,0
+730,August,Palestine,0
+58,August,Chad,0
+346,August,China,1
+514,August,Colombia,25
+694,August,Lebanon,0
+34,August,Cameroon,8
+706,August,Nepal,0
+538,August,El Salvador,29
+382,August,Vietnam,2
+82,August,Dem. Rep. Congo,1481
+334,August,Cambodia,1
+178,August,Liberia,2
+418,August,Georgia,11
+550,August,Guatemala,5
+562,August,Honduras,4
+406,August,Belarus,0
+394,August,Armenia,6
+430,August,Kazakhstan,0
+790,August,Yemen,0
+322,August,Burma,533
+94,August,Eritrea,63
+358,August,Indonesia,0
+310,August,Zimbabwe,0
+526,August,Cuba,0
+70,August,Congo,1
+370,August,"Korea, North",0
+574,August,Jamaica,0
+682,August,Kuwait,0
+470,December,Turkmenistan,0
+206,December,Republic of South Sudan,0
+746,December,Syria,3
+374,December,Vietnam,1
+506,December,Colombia,11
+194,December,Mali,0
+542,December,Guatemala,0
+758,December,Turkey,0
+386,December,Armenia,0
+530,December,El Salvador,37
+182,December,Malawi,0
+482,December,Ukraine,250
+638,December,Iraq,14
+626,December,Iran,1
+218,December,Rwanda,28
+518,December,Cuba,0
+410,December,Georgia,0
+290,December,Uganda,0
+302,December,Zimbabwe,0
+434,December,Kyrgyzstan,16
+314,December,Burma,223
+278,December,Togo,1
+566,December,Jamaica,0
+590,December,Bangladesh,0
+326,December,Cambodia,0
+446,December,Moldova,0
+266,December,Sudan,16
+494,December,Uzbekistan,0
+422,December,Kazakhstan,0
+254,December,Somalia,1
+602,December,Bhutan,9
+554,December,Honduras,9
+770,December,United Arab Emirates,0
+350,December,Indonesia,0
+458,December,Russia,8
+578,December,Afghanistan,35
+230,December,Senegal,2
+614,December,Egypt,0
+362,December,"Korea, North",0
+338,December,China,0
+398,December,Belarus,19
+242,December,Sierra Leone,0
+662,December,Jordan,0
+686,December,Lebanon,0
+734,December,Sri Lanka (Ceylon),0
+146,December,Ivory Coast,0
+62,December,Congo,0
+86,December,Eritrea,58
+698,December,Nepal,0
+650,December,Israel,0
+50,December,Chad,0
+782,December,Yemen,1
+98,December,Ethiopia,22
+38,December,Central African Republic,1
+74,December,Dem. Rep. Congo,891
+710,December,Pakistan,11
+674,December,Kuwait,0
+158,December,Kenya,6
+2,December,Benin,0
+26,December,Cameroon,1
+122,December,Ghana,1
+722,December,Palestine,0
+134,December,Guinea,0
+14,December,Burundi,46
+170,December,Liberia,0
+110,December,Gambia,0
+292,February,Uganda,0
+340,February,China,0
+556,February,Honduras,3
+664,February,Jordan,0
+124,February,Ghana,0
+328,February,Cambodia,0
+268,February,Sudan,26
+568,February,Jamaica,0
+316,February,Burma,425
+592,February,Bangladesh,0
+304,February,Zimbabwe,0
+100,February,Ethiopia,26
+112,February,Gambia,0
+280,February,Togo,0
+676,February,Kuwait,0
+580,February,Afghanistan,23
+88,February,Eritrea,40
+688,February,Lebanon,0
+172,February,Liberia,8
+352,February,Indonesia,0
+4,February,Benin,0
+472,February,Turkmenistan,0
+724,February,Palestine,1
+496,February,Uzbekistan,0
+460,February,Russia,10
+16,February,Burundi,30
+448,February,Moldova,0
+436,February,Kyrgyzstan,21
+508,February,Colombia,63
+28,February,Cameroon,0
+424,February,Kazakhstan,0
+712,February,Pakistan,12
+748,February,Syria,33
+520,February,Cuba,0
+412,February,Georgia,0
+40,February,Central African Republic,6
+400,February,Belarus,19
+52,February,Chad,0
+532,February,El Salvador,14
+388,February,Armenia,0
+700,February,Nepal,0
+376,February,Vietnam,0
+64,February,Congo,0
+256,February,Somalia,9
+544,February,Guatemala,1
+760,February,Turkey,0
+784,February,Yemen,0
+76,February,Dem. Rep. Congo,1170
+364,February,"Korea, North",0
+484,February,Ukraine,166
+160,February,Kenya,0
+628,February,Iran,39
+136,February,Guinea,0
+772,February,United Arab Emirates,0
+208,February,Republic of South Sudan,1
+604,February,Bhutan,1
+652,February,Israel,0
+232,February,Senegal,0
+244,February,Sierra Leone,0
+148,February,Ivory Coast,7
+640,February,Iraq,50
+736,February,Sri Lanka (Ceylon),1
+196,February,Mali,0
+616,February,Egypt,0
+184,February,Malawi,0
+220,February,Rwanda,12
+555,January,Honduras,4
+27,January,Cameroon,0
+639,January,Iraq,17
+99,January,Ethiopia,7
+303,January,Zimbabwe,0
+723,January,Palestine,0
+231,January,Senegal,0
+459,January,Russia,21
+147,January,Ivory Coast,0
+339,January,China,0
+699,January,Nepal,0
+495,January,Uzbekistan,0
+315,January,Burma,212
+15,January,Burundi,10
+615,January,Egypt,0
+507,January,Colombia,4
+327,January,Cambodia,0
+87,January,Eritrea,140
+783,January,Yemen,0
+759,January,Turkey,0
+435,January,Kyrgyzstan,4
+63,January,Congo,0
+375,January,Vietnam,13
+183,January,Malawi,0
+771,January,United Arab Emirates,0
+447,January,Moldova,7
+207,January,Republic of South Sudan,0
+219,January,Rwanda,0
+567,January,Jamaica,0
+579,January,Afghanistan,34
+675,January,Kuwait,0
+171,January,Liberia,3
+135,January,Guinea,0
+351,January,Indonesia,0
+267,January,Sudan,31
+483,January,Ukraine,147
+123,January,Ghana,0
+3,January,Benin,0
+243,January,Sierra Leone,0
+39,January,Central African Republic,1
+411,January,Georgia,0
+663,January,Jordan,0
+255,January,Somalia,4
+711,January,Pakistan,3
+195,January,Mali,0
+603,January,Bhutan,4
+519,January,Cuba,0
+75,January,Dem. Rep. Congo,736
+591,January,Bangladesh,0
+423,January,Kazakhstan,0
+51,January,Chad,0
+687,January,Lebanon,0
+291,January,Uganda,1
+627,January,Iran,0
+531,January,El Salvador,20
+735,January,Sri Lanka (Ceylon),1
+651,January,Israel,0
+363,January,"Korea, North",0
+387,January,Armenia,0
+159,January,Kenya,0
+111,January,Gambia,0
+399,January,Belarus,24
+279,January,Togo,0
+471,January,Turkmenistan,0
+543,January,Guatemala,8
+747,January,Syria,1
+69,July,Congo,0
+729,July,Palestine,12
+213,July,Republic of South Sudan,3
+501,July,Uzbekistan,0
+369,July,"Korea, North",0
+33,July,Cameroon,2
+705,July,Nepal,11
+405,July,Belarus,0
+525,July,Cuba,0
+645,July,Iraq,58
+45,July,Central African Republic,65
+513,July,Colombia,48
+201,July,Mali,0
+633,July,Iran,48
+393,July,Armenia,8
+153,July,Ivory Coast,20
+429,July,Kazakhstan,0
+189,July,Malawi,0
+57,July,Chad,3
+381,July,Vietnam,10
+537,July,El Salvador,44
+621,July,Egypt,0
+693,July,Lebanon,1
+777,July,United Arab Emirates,0
+357,July,Indonesia,0
+417,July,Georgia,15
+465,July,Russia,21
+309,July,Zimbabwe,2
+261,July,Somalia,55
+477,July,Turkmenistan,0
+573,July,Jamaica,1
+765,July,Turkey,0
+297,July,Uganda,0
+441,July,Kyrgyzstan,0
+105,July,Ethiopia,35
+237,July,Senegal,0
+657,July,Israel,0
+609,July,Bhutan,7
+273,July,Sudan,43
+789,July,Yemen,1
+285,July,Togo,0
+9,July,Benin,0
+177,July,Liberia,15
+117,July,Gambia,0
+585,July,Afghanistan,216
+489,July,Ukraine,561
+753,July,Syria,67
+669,July,Jordan,0
+93,July,Eritrea,139
+717,July,Pakistan,30
+249,July,Sierra Leone,0
+129,July,Ghana,0
+741,July,Sri Lanka (Ceylon),2
+549,July,Guatemala,17
+21,July,Burundi,8
+345,July,China,0
+141,July,Guinea,1
+165,July,Kenya,2
+81,July,Dem. Rep. Congo,1297
+597,July,Bangladesh,0
+561,July,Honduras,12
+225,July,Rwanda,0
+681,July,Kuwait,1
+321,July,Burma,527
+453,July,Moldova,30
+333,July,Cambodia,0
+176,June,Liberia,0
+728,June,Palestine,0
+476,June,Turkmenistan,12
+488,June,Ukraine,417
+632,June,Iran,23
+440,June,Kyrgyzstan,0
+32,June,Cameroon,6
+512,June,Colombia,37
+428,June,Kazakhstan,0
+752,June,Syria,55
+464,June,Russia,21
+644,June,Iraq,44
+188,June,Malawi,0
+776,June,United Arab Emirates,0
+452,June,Moldova,17
+500,June,Uzbekistan,1
+20,June,Burundi,5
+164,June,Kenya,1
+716,June,Pakistan,22
+788,June,Yemen,1
+8,June,Benin,0
+248,June,Sierra Leone,0
+68,June,Congo,0
+224,June,Rwanda,0
+332,June,Cambodia,0
+416,June,Georgia,0
+92,June,Eritrea,283
+320,June,Burma,567
+680,June,Kuwait,0
+764,June,Turkey,0
+740,June,Sri Lanka (Ceylon),0
+308,June,Zimbabwe,0
+572,June,Jamaica,2
+140,June,Guinea,1
+104,June,Ethiopia,17
+296,June,Uganda,4
+656,June,Israel,0
+236,June,Senegal,0
+284,June,Togo,0
+584,June,Afghanistan,122
+116,June,Gambia,0
+668,June,Jordan,3
+272,June,Sudan,30
+608,June,Bhutan,3
+596,June,Bangladesh,0
+260,June,Somalia,24
+128,June,Ghana,0
+80,June,Dem. Rep. Congo,1348
+344,June,China,0
+560,June,Honduras,14
+56,June,Chad,1
+704,June,Nepal,0
+44,June,Central African Republic,64
+380,June,Vietnam,5
+536,June,El Salvador,37
+152,June,Ivory Coast,11
+368,June,"Korea, North",0
+692,June,Lebanon,0
+200,June,Mali,1
+620,June,Egypt,0
+404,June,Belarus,1
+524,June,Cuba,0
+212,June,Republic of South Sudan,1
+356,June,Indonesia,0
+548,June,Guatemala,4
+392,June,Armenia,4
+737,March,Sri Lanka (Ceylon),3
+605,March,Bhutan,0
+485,March,Ukraine,281
+665,March,Jordan,0
+521,March,Cuba,0
+725,March,Palestine,0
+593,March,Bangladesh,0
+749,March,Syria,172
+533,March,El Salvador,23
+581,March,Afghanistan,44
+713,March,Pakistan,30
+617,March,Egypt,1
+509,March,Colombia,46
+677,March,Kuwait,0
+497,March,Uzbekistan,3
+569,March,Jamaica,0
+653,March,Israel,0
+545,March,Guatemala,15
+641,March,Iraq,73
+689,March,Lebanon,0
+557,March,Honduras,4
+701,March,Nepal,0
+629,March,Iran,22
+365,March,"Korea, North",0
+413,March,Georgia,0
+77,March,Dem. Rep. Congo,1285
+785,March,Yemen,0
+773,March,United Arab Emirates,1
+281,March,Togo,0
+137,March,Guinea,0
+293,March,Uganda,0
+401,March,Belarus,3
+197,March,Mali,0
+53,March,Chad,0
+149,March,Ivory Coast,5
+389,March,Armenia,1
+29,March,Cameroon,2
+305,March,Zimbabwe,0
+377,March,Vietnam,12
+89,March,Eritrea,77
+185,March,Malawi,0
+317,March,Burma,556
+353,March,Indonesia,0
+41,March,Central African Republic,13
+161,March,Kenya,2
+329,March,Cambodia,0
+761,March,Turkey,0
+173,March,Liberia,9
+425,March,Kazakhstan,0
+269,March,Sudan,27
+341,March,China,0
+17,March,Burundi,19
+233,March,Senegal,0
+473,March,Turkmenistan,0
+113,March,Gambia,0
+245,March,Sierra Leone,1
+461,March,Russia,10
+221,March,Rwanda,4
+65,March,Congo,0
+449,March,Moldova,0
+257,March,Somalia,4
+101,March,Ethiopia,23
+5,March,Benin,0
+125,March,Ghana,1
+209,March,Republic of South Sudan,4
+437,March,Kyrgyzstan,0
+55,May,Chad,4
+271,May,Sudan,46
+331,May,Cambodia,0
+559,May,Honduras,6
+235,May,Senegal,0
+691,May,Lebanon,0
+595,May,Bangladesh,0
+607,May,Bhutan,0
+43,May,Central African Republic,38
+763,May,Turkey,0
+319,May,Burma,510
+223,May,Rwanda,0
+187,May,Malawi,1
+571,May,Jamaica,0
+247,May,Sierra Leone,1
+307,May,Zimbabwe,0
+283,May,Togo,0
+739,May,Sri Lanka (Ceylon),3
+79,May,Dem. Rep. Congo,1495
+775,May,United Arab Emirates,0
+703,May,Nepal,1
+631,May,Iran,13
+619,May,Egypt,3
+259,May,Somalia,45
+211,May,Republic of South Sudan,13
+583,May,Afghanistan,130
+199,May,Mali,0
+295,May,Uganda,7
+163,May,Kenya,0
+343,May,China,0
+523,May,Cuba,0
+139,May,Guinea,2
+175,May,Liberia,0
+19,May,Burundi,8
+679,May,Kuwait,0
+427,May,Kazakhstan,0
+511,May,Colombia,5
+127,May,Ghana,0
+439,May,Kyrgyzstan,0
+655,May,Israel,0
+7,May,Benin,0
+451,May,Moldova,15
+499,May,Uzbekistan,7
+103,May,Ethiopia,38
+463,May,Russia,21
+727,May,Palestine,11
+115,May,Gambia,0
+475,May,Turkmenistan,3
+751,May,Syria,61
+487,May,Ukraine,260
+667,May,Jordan,2
+403,May,Belarus,8
+415,May,Georgia,0
+67,May,Congo,0
+367,May,"Korea, North",0
+715,May,Pakistan,69
+391,May,Armenia,10
+151,May,Ivory Coast,0
+643,May,Iraq,48
+535,May,El Salvador,23
+355,May,Indonesia,0
+91,May,Eritrea,297
+787,May,Yemen,0
+547,May,Guatemala,23
+379,May,Vietnam,10
+31,May,Cameroon,5
+685,November,Lebanon,0
+181,November,Malawi,0
+109,November,Gambia,0
+613,November,Egypt,0
+169,November,Liberia,0
+637,November,Iraq,8
+217,November,Rwanda,21
+145,November,Ivory Coast,3
+85,November,Eritrea,83
+121,November,Ghana,0
+205,November,Republic of South Sudan,0
+97,November,Ethiopia,11
+73,November,Dem. Rep. Congo,1078
+625,November,Iran,0
+661,November,Jordan,0
+133,November,Guinea,2
+193,November,Mali,0
+157,November,Kenya,0
+649,November,Israel,0
+673,November,Kuwait,0
+481,November,Ukraine,358
+229,November,Senegal,0
+37,November,Central African Republic,2
+349,November,Indonesia,0
+361,November,"Korea, North",1
+541,November,Guatemala,3
+373,November,Vietnam,1
+385,November,Armenia,4
+529,November,El Salvador,11
+25,November,Cameroon,0
+397,November,Belarus,8
+757,November,Turkey,0
+409,November,Georgia,0
+517,November,Cuba,0
+721,November,Palestine,0
+421,November,Kazakhstan,8
+13,November,Burundi,23
+433,November,Kyrgyzstan,5
+505,November,Colombia,21
+445,November,Moldova,8
+457,November,Russia,15
+493,November,Uzbekistan,1
+1,November,Benin,0
+469,November,Turkmenistan,0
+709,November,Pakistan,39
+553,November,Honduras,4
+745,November,Syria,7
+49,November,Chad,0
+733,November,Sri Lanka (Ceylon),1
+253,November,Somalia,6
+589,November,Bangladesh,1
+337,November,China,0
+277,November,Togo,0
+289,November,Uganda,3
+781,November,Yemen,0
+577,November,Afghanistan,46
+697,November,Nepal,0
+265,November,Sudan,19
+61,November,Congo,0
+313,November,Burma,344
+565,November,Jamaica,0
+601,November,Bhutan,5
+769,November,United Arab Emirates,0
+241,November,Sierra Leone,0
+325,November,Cambodia,0
+301,November,Zimbabwe,0
+72,October,Dem. Rep. Congo,612
+12,October,Burundi,7
+708,October,Pakistan,24
+60,October,Congo,2
+720,October,Palestine,0
+96,October,Ethiopia,39
+24,October,Cameroon,2
+48,October,Chad,0
+36,October,Central African Republic,0
+84,October,Eritrea,358
+684,October,Lebanon,0
+732,October,Sri Lanka (Ceylon),4
+696,October,Nepal,0
+480,October,Ukraine,345
+240,October,Sierra Leone,0
+672,October,Kuwait,0
+312,October,Burma,304
+564,October,Jamaica,0
+744,October,Syria,2
+324,October,Cambodia,0
+336,October,China,0
+552,October,Honduras,2
+348,October,Indonesia,0
+360,October,"Korea, North",0
+540,October,Guatemala,3
+372,October,Vietnam,14
+384,October,Armenia,0
+396,October,Belarus,11
+528,October,El Salvador,23
+408,October,Georgia,0
+756,October,Turkey,0
+516,October,Cuba,0
+420,October,Kazakhstan,0
+432,October,Kyrgyzstan,0
+504,October,Colombia,0
+444,October,Moldova,0
+456,October,Russia,0
+468,October,Turkmenistan,0
+492,October,Uzbekistan,0
+108,October,Gambia,0
+300,October,Zimbabwe,0
+576,October,Afghanistan,34
+276,October,Togo,0
+780,October,Yemen,0
+120,October,Ghana,0
+660,October,Jordan,0
+132,October,Guinea,0
+144,October,Ivory Coast,0
+156,October,Kenya,5
+648,October,Israel,1
+168,October,Liberia,0
+180,October,Malawi,0
+288,October,Uganda,9
+192,October,Mali,0
+636,October,Iraq,6
+624,October,Iran,1
+216,October,Rwanda,17
+228,October,Senegal,0
+612,October,Egypt,0
+252,October,Somalia,3
+600,October,Bhutan,0
+768,October,United Arab Emirates,0
+264,October,Sudan,5
+588,October,Bangladesh,1
+204,October,Republic of South Sudan,0
+0,October,Benin,0
+731,September,Palestine,0
+755,September,Syria,64
+767,September,Turkey,0
+779,September,United Arab Emirates,0
+743,September,Sri Lanka (Ceylon),2
+395,September,Armenia,0
+707,September,Nepal,1
+311,September,Zimbabwe,0
+299,September,Uganda,0
+287,September,Togo,0
+275,September,Sudan,57
+263,September,Somalia,30
+251,September,Sierra Leone,0
+239,September,Senegal,2
+227,September,Rwanda,0
+215,September,Republic of South Sudan,1
+203,September,Mali,1
+191,September,Malawi,0
+179,September,Liberia,0
+323,September,Burma,224
+167,September,Kenya,0
+143,September,Guinea,2
+131,September,Ghana,0
+119,September,Gambia,1
+107,September,Ethiopia,12
+95,September,Eritrea,43
+83,September,Dem. Rep. Congo,430
+71,September,Congo,0
+59,September,Chad,0
+47,September,Central African Republic,0
+35,September,Cameroon,2
+23,September,Burundi,10
+11,September,Benin,3
+155,September,Ivory Coast,9
+335,September,Cambodia,0
+347,September,China,0
+359,September,Indonesia,0
+695,September,Lebanon,0
+683,September,Kuwait,0
+671,September,Jordan,0
+659,September,Israel,0
+647,September,Iraq,45
+635,September,Iran,4
+623,September,Egypt,0
+611,September,Bhutan,0
+599,September,Bangladesh,0
+587,September,Afghanistan,164
+575,September,Jamaica,0
+563,September,Honduras,12
+551,September,Guatemala,35
+539,September,El Salvador,39
+527,September,Cuba,0
+515,September,Colombia,35
+503,September,Uzbekistan,0
+491,September,Ukraine,659
+479,September,Turkmenistan,3
+467,September,Russia,0
+455,September,Moldova,27
+443,September,Kyrgyzstan,0
+431,September,Kazakhstan,0
+419,September,Georgia,0
+407,September,Belarus,0
+383,September,Vietnam,19
+371,September,"Korea, North",0
+719,September,Pakistan,8
+791,September,Yemen,0
