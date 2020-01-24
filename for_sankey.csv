@@ -1,0 +1,622 @@
+,source,target,value
+17,Burma,Alabama,1
+18,Dem. Rep. Congo,Alabama,25
+19,El Salvador,Alabama,1
+20,Somalia,Alabama,3
+21,Vietnam,Alabama,3
+23,Russia,Alaska,6
+24,Ukraine,Alaska,16
+26,Afghanistan,Arizona,95
+27,Algeria,Arizona,1
+28,Bhutan,Arizona,18
+29,Burma,Arizona,58
+30,Burundi,Arizona,12
+31,Central African Republic,Arizona,6
+32,Colombia,Arizona,2
+33,Dem. Rep. Congo,Arizona,455
+34,Eritrea,Arizona,72
+35,Ethiopia,Arizona,25
+36,Guinea,Arizona,2
+37,Iraq,Arizona,5
+38,Ivory Coast,Arizona,1
+39,Jordan,Arizona,1
+40,Liberia,Arizona,1
+41,Moldova,Arizona,1
+42,Pakistan,Arizona,42
+43,Senegal,Arizona,1
+44,Somalia,Arizona,10
+46,Dem. Rep. Congo,Arkansas,33
+47,Ethiopia,Arkansas,2
+48,Honduras,Arkansas,1
+49,Ukraine,Arkansas,8
+51,Afghanistan,California,111
+52,Armenia,California,57
+53,Azerbaijan,California,2
+54,Belarus,California,44
+55,Bhutan,California,3
+56,Burma,California,37
+57,Burundi,California,1
+58,Central African Republic,California,6
+59,Dem. Rep. Congo,California,95
+60,El Salvador,California,162
+61,Eritrea,California,16
+62,Ethiopia,California,1
+63,Guatemala,California,7
+64,Honduras,California,12
+65,Iran,California,19
+66,Iraq,California,12
+67,Ivory Coast,California,1
+68,Kazakhstan,California,4
+69,"Korea, North",California,2
+70,Moldova,California,77
+71,Pakistan,California,24
+72,Russia,California,61
+73,Rwanda,California,9
+74,Sri Lanka (Ceylon),California,23
+75,Syria,California,12
+76,Uganda,California,7
+77,Ukraine,California,311
+78,Uzbekistan,California,6
+79,Vietnam,California,4
+81,Afghanistan,Colorado,20
+82,Bangladesh,Colorado,2
+83,Bhutan,Colorado,31
+84,Burma,Colorado,99
+85,Cameroon,Colorado,2
+86,Central African Republic,Colorado,4
+87,Dem. Rep. Congo,Colorado,100
+88,El Salvador,Colorado,5
+89,Eritrea,Colorado,44
+90,Ethiopia,Colorado,5
+91,Iran,Colorado,1
+92,Iraq,Colorado,3
+93,Pakistan,Colorado,3
+94,Russia,Colorado,9
+95,Rwanda,Colorado,1
+96,Senegal,Colorado,2
+97,Somalia,Colorado,6
+98,Uganda,Colorado,1
+99,Ukraine,Colorado,8
+101,Afghanistan,Connecticut,17
+102,Bhutan,Connecticut,3
+103,Burma,Connecticut,5
+104,Dem. Rep. Congo,Connecticut,76
+105,Eritrea,Connecticut,5
+106,Ethiopia,Connecticut,6
+107,Guatemala,Connecticut,3
+108,Russia,Connecticut,7
+109,Syria,Connecticut,4
+111,Afghanistan,Delaware,2
+112,Central African Republic,Delaware,3
+113,Dem. Rep. Congo,Delaware,7
+114,Pakistan,Delaware,3
+116,Eritrea,District of Columbia,1
+118,Afghanistan,Florida,11
+119,Bhutan,Florida,3
+120,Burma,Florida,18
+121,Burundi,Florida,8
+122,Central African Republic,Florida,2
+123,Colombia,Florida,15
+124,Congo,Florida,3
+125,Dem. Rep. Congo,Florida,215
+126,El Salvador,Florida,27
+127,Eritrea,Florida,64
+128,Ethiopia,Florida,12
+129,Guatemala,Florida,8
+130,Honduras,Florida,5
+131,Jamaica,Florida,1
+132,Pakistan,Florida,8
+133,Russia,Florida,28
+134,Rwanda,Florida,4
+135,Saudi Arabia,Florida,1
+136,Sri Lanka (Ceylon),Florida,3
+137,Sudan,Florida,1
+138,Syria,Florida,7
+139,Ukraine,Florida,35
+141,Afghanistan,Georgia,35
+142,Bhutan,Georgia,104
+143,Burma,Georgia,153
+144,Burundi,Georgia,5
+145,Central African Republic,Georgia,11
+146,Colombia,Georgia,2
+147,Dem. Rep. Congo,Georgia,194
+148,El Salvador,Georgia,31
+149,Eritrea,Georgia,36
+150,Ethiopia,Georgia,5
+151,Honduras,Georgia,2
+152,Moldova,Georgia,2
+153,Nepal,Georgia,1
+154,Niger,Georgia,1
+155,Pakistan,Georgia,13
+156,Republic of South Sudan,Georgia,1
+157,Rwanda,Georgia,4
+158,Somalia,Georgia,4
+159,Syria,Georgia,6
+160,Ukraine,Georgia,12
+161,Vietnam,Georgia,4
+163,Afghanistan,Idaho,6
+164,Bhutan,Idaho,20
+165,Burma,Idaho,11
+166,Burundi,Idaho,5
+167,Dem. Rep. Congo,Idaho,177
+168,Eritrea,Idaho,35
+169,Ethiopia,Idaho,4
+170,Guinea,Idaho,1
+171,Pakistan,Idaho,4
+172,Russia,Idaho,12
+173,Sudan,Idaho,2
+174,Ukraine,Idaho,18
+176,Afghanistan,Illinois,22
+177,Bhutan,Illinois,20
+178,Burma,Illinois,214
+179,Burundi,Illinois,9
+180,Cameroon,Illinois,1
+181,Central African Republic,Illinois,6
+182,China,Illinois,1
+183,Colombia,Illinois,1
+184,Dem. Rep. Congo,Illinois,158
+185,Eritrea,Illinois,42
+186,Ethiopia,Illinois,1
+187,Iraq,Illinois,19
+188,Moldova,Illinois,9
+189,Russia,Illinois,5
+190,Rwanda,Illinois,4
+191,Somalia,Illinois,5
+192,Sudan,Illinois,3
+193,Syria,Illinois,3
+194,Uganda,Illinois,2
+195,Ukraine,Illinois,42
+196,Vietnam,Illinois,6
+197,Zimbabwe,Illinois,1
+199,Burma,Indiana,249
+200,Burundi,Indiana,1
+201,Dem. Rep. Congo,Indiana,95
+202,El Salvador,Indiana,6
+203,Eritrea,Indiana,16
+204,Iraq,Indiana,1
+205,Pakistan,Indiana,2
+206,Somalia,Indiana,4
+207,South Africa,Indiana,1
+208,Sudan,Indiana,9
+209,Ukraine,Indiana,18
+211,Bhutan,Iowa,59
+212,Burma,Iowa,106
+213,Dem. Rep. Congo,Iowa,197
+214,El Salvador,Iowa,2
+215,Eritrea,Iowa,68
+216,Ethiopia,Iowa,4
+217,Nepal,Iowa,1
+218,Rwanda,Iowa,1
+219,Sudan,Iowa,9
+221,Afghanistan,Kansas,10
+222,Bhutan,Kansas,10
+223,Burma,Kansas,76
+224,Dem. Rep. Congo,Kansas,159
+225,Eritrea,Kansas,22
+226,Somalia,Kansas,11
+228,Bhutan,Kentucky,94
+229,Burma,Kentucky,102
+230,Burundi,Kentucky,10
+231,Dem. Rep. Congo,Kentucky,438
+232,Eritrea,Kentucky,15
+233,Ethiopia,Kentucky,1
+234,Iraq,Kentucky,3
+235,Nepal,Kentucky,3
+236,New Zealand,Kentucky,5
+237,Rwanda,Kentucky,9
+238,Somalia,Kentucky,9
+239,Ukraine,Kentucky,40
+241,Burma,Louisiana,6
+242,Central African Republic,Louisiana,6
+243,Dem. Rep. Congo,Louisiana,4
+244,Eritrea,Louisiana,5
+245,Honduras,Louisiana,2
+246,Iraq,Louisiana,1
+247,Vietnam,Louisiana,4
+249,Dem. Rep. Congo,Maine,40
+250,Eritrea,Maine,1
+251,Ethiopia,Maine,5
+252,Iraq,Maine,9
+253,Somalia,Maine,6
+255,Afghanistan,Maryland,28
+256,Bhutan,Maryland,18
+257,Burma,Maryland,23
+258,Dem. Rep. Congo,Maryland,74
+259,El Salvador,Maryland,69
+260,Eritrea,Maryland,50
+261,Ethiopia,Maryland,9
+262,Honduras,Maryland,1
+263,Kazakhstan,Maryland,2
+264,Moldova,Maryland,1
+265,Pakistan,Maryland,38
+266,Sri Lanka (Ceylon),Maryland,1
+267,Sudan,Maryland,8
+268,Uganda,Maryland,1
+269,Ukraine,Maryland,7
+270,Vietnam,Maryland,1
+272,Afghanistan,Massachusetts,13
+273,Belarus,Massachusetts,16
+274,Bhutan,Massachusetts,51
+275,Burma,Massachusetts,7
+276,Burundi,Massachusetts,4
+277,Central African Republic,Massachusetts,8
+278,Dem. Rep. Congo,Massachusetts,95
+279,Egypt,Massachusetts,1
+280,El Salvador,Massachusetts,41
+281,Eritrea,Massachusetts,13
+282,Ethiopia,Massachusetts,6
+283,Guatemala,Massachusetts,2
+284,Guinea,Massachusetts,2
+285,Honduras,Massachusetts,3
+286,Iraq,Massachusetts,4
+287,Moldova,Massachusetts,15
+288,Nepal,Massachusetts,1
+289,Republic of South Sudan,Massachusetts,4
+290,Russia,Massachusetts,11
+291,Senegal,Massachusetts,1
+292,Somalia,Massachusetts,6
+293,Sri Lanka (Ceylon),Massachusetts,1
+294,Syria,Massachusetts,1
+295,Uganda,Massachusetts,1
+296,Ukraine,Massachusetts,46
+297,Uzbekistan,Massachusetts,1
+299,Afghanistan,Michigan,40
+300,Bhutan,Michigan,87
+301,Burma,Michigan,88
+302,Burundi,Michigan,8
+303,Cameroon,Michigan,2
+304,Central African Republic,Michigan,2
+305,Dem. Rep. Congo,Michigan,232
+306,Eritrea,Michigan,19
+307,Ethiopia,Michigan,5
+308,Guinea,Michigan,2
+309,Iraq,Michigan,8
+310,Nepal,Michigan,1
+311,Nigeria,Michigan,1
+312,Pakistan,Michigan,13
+313,Rwanda,Michigan,2
+314,Senegal,Michigan,1
+315,Somalia,Michigan,3
+316,Sri Lanka (Ceylon),Michigan,1
+317,Sudan,Michigan,3
+318,Syria,Michigan,3
+319,Ukraine,Michigan,45
+321,Belarus,Minnesota,15
+322,Bhutan,Minnesota,28
+323,Burma,Minnesota,292
+324,Dem. Rep. Congo,Minnesota,67
+325,El Salvador,Minnesota,10
+326,Eritrea,Minnesota,23
+327,Ethiopia,Minnesota,67
+328,Guatemala,Minnesota,1
+329,Iraq,Minnesota,1
+330,Kazakhstan,Minnesota,9
+331,Kuwait,Minnesota,1
+332,Moldova,Minnesota,2
+333,Russia,Minnesota,2
+334,Senegal,Minnesota,1
+335,Somalia,Minnesota,80
+336,Sri Lanka (Ceylon),Minnesota,1
+337,Ukraine,Minnesota,34
+339,Dem. Rep. Congo,Mississippi,2
+341,Afghanistan,Missouri,12
+342,Bhutan,Missouri,9
+343,Burma,Missouri,46
+344,Burundi,Missouri,4
+345,Congo,Missouri,1
+346,Dem. Rep. Congo,Missouri,203
+347,Eritrea,Missouri,32
+348,Ethiopia,Missouri,5
+349,Iraq,Missouri,1
+350,Pakistan,Missouri,7
+351,Somalia,Missouri,8
+352,Sudan,Missouri,1
+353,Ukraine,Missouri,31
+354,Vietnam,Missouri,5
+356,Dem. Rep. Congo,Montana,58
+357,Eritrea,Montana,27
+359,Afghanistan,Nebraska,6
+360,Bhutan,Nebraska,109
+361,Burma,Nebraska,136
+362,Dem. Rep. Congo,Nebraska,30
+363,El Salvador,Nebraska,4
+364,Ethiopia,Nebraska,9
+365,Iraq,Nebraska,6
+366,Somalia,Nebraska,5
+367,Ukraine,Nebraska,15
+369,Afghanistan,Nevada,18
+370,Bhutan,Nevada,8
+371,Cameroon,Nevada,3
+372,Colombia,Nevada,1
+373,Dem. Rep. Congo,Nevada,81
+374,El Salvador,Nevada,4
+375,Eritrea,Nevada,31
+376,Ethiopia,Nevada,5
+377,Iran,Nevada,3
+378,Iraq,Nevada,3
+379,Niger,Nevada,1
+380,Pakistan,Nevada,2
+381,Senegal,Nevada,4
+382,Syria,Nevada,3
+384,Bhutan,New Hampshire,30
+385,Burma,New Hampshire,16
+386,Dem. Rep. Congo,New Hampshire,69
+387,Nepal,New Hampshire,1
+388,Somalia,New Hampshire,8
+389,Ukraine,New Hampshire,1
+391,Burma,New Jersey,5
+392,Burundi,New Jersey,1
+393,Colombia,New Jersey,8
+394,Dem. Rep. Congo,New Jersey,38
+395,El Salvador,New Jersey,16
+396,Eritrea,New Jersey,2
+397,Guatemala,New Jersey,8
+398,Iraq,New Jersey,1
+399,Kyrgyzstan,New Jersey,1
+400,Moldova,New Jersey,4
+401,Pakistan,New Jersey,22
+402,Russia,New Jersey,8
+403,Sri Lanka (Ceylon),New Jersey,11
+404,Ukraine,New Jersey,3
+406,Afghanistan,New Mexico,11
+407,Burundi,New Mexico,10
+408,Dem. Rep. Congo,New Mexico,30
+409,Rwanda,New Mexico,2
+411,Afghanistan,New York,46
+412,Belarus,New York,21
+413,Bhutan,New York,115
+414,Burma,New York,187
+415,Burundi,New York,22
+416,Central African Republic,New York,3
+417,Chad,New York,1
+418,China,New York,3
+419,Dem. Rep. Congo,New York,388
+420,El Salvador,New York,12
+421,Eritrea,New York,54
+422,Ethiopia,New York,7
+423,Honduras,New York,7
+424,India,New York,1
+425,Iraq,New York,1
+426,Moldova,New York,5
+427,Pakistan,New York,26
+428,Philippines,New York,1
+429,Russia,New York,64
+430,Somalia,New York,2
+431,Sri Lanka (Ceylon),New York,5
+432,Sudan,New York,2
+433,Syria,New York,6
+434,Uganda,New York,1
+435,Ukraine,New York,150
+436,Uzbekistan,New York,4
+438,Afghanistan,North Carolina,23
+439,Belarus,North Carolina,7
+440,Bhutan,North Carolina,68
+441,Burma,North Carolina,156
+442,Central African Republic,North Carolina,13
+443,Colombia,North Carolina,5
+444,Dem. Rep. Congo,North Carolina,326
+445,El Salvador,North Carolina,48
+446,Eritrea,North Carolina,50
+447,Ethiopia,North Carolina,3
+448,Guatemala,North Carolina,2
+449,Iraq,North Carolina,2
+450,Moldova,North Carolina,4
+451,Pakistan,North Carolina,20
+452,Russia,North Carolina,11
+453,Rwanda,North Carolina,3
+454,Somalia,North Carolina,1
+455,Sri Lanka (Ceylon),North Carolina,1
+456,Sudan,North Carolina,8
+457,Syria,North Carolina,2
+458,Uganda,North Carolina,2
+459,Ukraine,North Carolina,46
+460,Vietnam,North Carolina,5
+462,Afghanistan,North Dakota,10
+463,Angola,North Dakota,1
+464,Bhutan,North Dakota,96
+465,Dem. Rep. Congo,North Dakota,42
+466,Ukraine,North Dakota,7
+468,Afghanistan,Ohio,28
+469,Bhutan,Ohio,619
+470,Burma,Ohio,36
+471,Central African Republic,Ohio,1
+472,Dem. Rep. Congo,Ohio,301
+473,El Salvador,Ohio,9
+474,Eritrea,Ohio,53
+475,Ethiopia,Ohio,2
+476,Iraq,Ohio,5
+477,Ivory Coast,Ohio,3
+478,Kyrgyzstan,Ohio,2
+479,Liberia,Ohio,2
+480,Pakistan,Ohio,24
+481,Republic of South Sudan,Ohio,6
+482,Rwanda,Ohio,3
+483,Somalia,Ohio,11
+484,Syria,Ohio,2
+485,Uganda,Ohio,3
+486,Ukraine,Ohio,101
+487,Uzbekistan,Ohio,7
+489,Burma,Oklahoma,58
+490,Dem. Rep. Congo,Oklahoma,3
+491,Eritrea,Oklahoma,6
+492,Honduras,Oklahoma,2
+493,Russia,Oklahoma,9
+494,Ukraine,Oklahoma,2
+496,Afghanistan,Oregon,3
+497,Bhutan,Oregon,23
+498,Burma,Oregon,64
+499,Burundi,Oregon,4
+500,Central African Republic,Oregon,7
+501,Dem. Rep. Congo,Oregon,67
+502,El Salvador,Oregon,1
+503,Eritrea,Oregon,1
+504,Ethiopia,Oregon,4
+505,Iran,Oregon,1
+506,Iraq,Oregon,3
+507,Kazakhstan,Oregon,1
+508,Moldova,Oregon,17
+509,Pakistan,Oregon,4
+510,Republic of South Sudan,Oregon,1
+511,Russia,Oregon,24
+512,Sri Lanka (Ceylon),Oregon,1
+513,Syria,Oregon,4
+514,Uganda,Oregon,1
+515,Ukraine,Oregon,140
+517,Afghanistan,Pennsylvania,8
+518,Belarus,Pennsylvania,9
+519,Bhutan,Pennsylvania,255
+520,Burma,Pennsylvania,28
+521,Cameroon,Pennsylvania,1
+522,Central African Republic,Pennsylvania,2
+523,Dem. Rep. Congo,Pennsylvania,222
+524,El Salvador,Pennsylvania,2
+525,Eritrea,Pennsylvania,41
+526,Ethiopia,Pennsylvania,15
+527,Ivory Coast,Pennsylvania,3
+528,Kyrgyzstan,Pennsylvania,2
+529,Liberia,Pennsylvania,2
+530,Libya,Pennsylvania,1
+531,Pakistan,Pennsylvania,34
+532,Russia,Pennsylvania,6
+533,Rwanda,Pennsylvania,13
+534,Somalia,Pennsylvania,1
+535,Turkmenistan,Pennsylvania,5
+536,Uganda,Pennsylvania,1
+537,Ukraine,Pennsylvania,75
+539,Afghanistan,Rhode Island,4
+540,Burundi,Rhode Island,2
+541,Colombia,Rhode Island,3
+542,Dem. Rep. Congo,Rhode Island,39
+543,El Salvador,Rhode Island,1
+544,Eritrea,Rhode Island,9
+545,Iraq,Rhode Island,3
+546,Liberia,Rhode Island,1
+547,Somalia,Rhode Island,1
+549,Afghanistan,South Carolina,4
+550,Belarus,South Carolina,13
+551,Burma,South Carolina,8
+552,Cameroon,South Carolina,4
+553,Dem. Rep. Congo,South Carolina,48
+554,Eritrea,South Carolina,5
+555,Ukraine,South Carolina,18
+556,Vietnam,South Carolina,4
+558,Bhutan,South Dakota,65
+559,Burma,South Dakota,23
+560,Dem. Rep. Congo,South Dakota,24
+561,El Salvador,South Dakota,4
+562,Eritrea,South Dakota,25
+563,Ethiopia,South Dakota,12
+564,Russia,South Dakota,2
+565,Somalia,South Dakota,8
+566,Sudan,South Dakota,1
+567,Ukraine,South Dakota,24
+569,Afghanistan,Tennessee,2
+570,Bhutan,Tennessee,44
+571,Burma,Tennessee,37
+572,Burundi,Tennessee,11
+573,Colombia,Tennessee,7
+574,Dem. Rep. Congo,Tennessee,141
+575,El Salvador,Tennessee,7
+576,Eritrea,Tennessee,9
+577,Ethiopia,Tennessee,1
+578,Honduras,Tennessee,5
+579,Iraq,Tennessee,4
+580,Pakistan,Tennessee,2
+581,Russia,Tennessee,4
+582,Rwanda,Tennessee,7
+583,Somalia,Tennessee,4
+584,Sudan,Tennessee,1
+585,Ukraine,Tennessee,17
+586,Zimbabwe,Tennessee,3
+588,Afghanistan,Texas,45
+589,Bhutan,Texas,81
+590,Burma,Texas,361
+591,Burundi,Texas,24
+592,Cameroon,Texas,1
+593,Colombia,Texas,1
+594,Dem. Rep. Congo,Texas,565
+595,El Salvador,Texas,69
+596,Eritrea,Texas,74
+597,Ethiopia,Texas,6
+598,Honduras,Texas,10
+599,Iran,Texas,8
+600,Iraq,Texas,21
+601,Ivory Coast,Texas,4
+602,Nepal,Texas,3
+603,Pakistan,Texas,34
+604,Rwanda,Texas,16
+605,Senegal,Texas,1
+606,Somalia,Texas,9
+607,Sudan,Texas,10
+608,Syria,Texas,1
+609,Uganda,Texas,2
+610,Vietnam,Texas,12
+611,Zimbabwe,Texas,8
+613,Afghanistan,Utah,5
+614,Bhutan,Utah,14
+615,Burma,Utah,28
+616,Central African Republic,Utah,5
+617,Dem. Rep. Congo,Utah,140
+618,El Salvador,Utah,2
+619,Eritrea,Utah,23
+620,Ethiopia,Utah,15
+621,Guinea,Utah,3
+622,Iraq,Utah,1
+623,"Korea, North",Utah,1
+624,Pakistan,Utah,3
+625,Rwanda,Utah,5
+626,Somalia,Utah,17
+628,Bhutan,Vermont,54
+629,Burma,Vermont,3
+630,Dem. Rep. Congo,Vermont,64
+632,Afghanistan,Virginia,45
+633,Bhutan,Virginia,38
+634,Burundi,Virginia,2
+635,Colombia,Virginia,2
+636,Dem. Rep. Congo,Virginia,129
+637,El Salvador,Virginia,60
+638,Eritrea,Virginia,15
+639,Ethiopia,Virginia,1
+640,Honduras,Virginia,2
+641,Iraq,Virginia,4
+642,Ivory Coast,Virginia,1
+643,Pakistan,Virginia,17
+644,Russia,Virginia,2
+645,Somalia,Virginia,2
+646,Syria,Virginia,2
+647,Ukraine,Virginia,4
+648,Vietnam,Virginia,4
+650,Belarus,Washington,23
+651,Bhutan,Washington,27
+652,Burma,Washington,52
+653,Cameroon,Washington,1
+654,Central African Republic,Washington,9
+655,China,Washington,1
+656,Dem. Rep. Congo,Washington,17
+657,Djibouti,Washington,1
+658,El Salvador,Washington,5
+659,Eritrea,Washington,38
+660,Ethiopia,Washington,10
+661,Iran,Washington,3
+662,Iraq,Washington,4
+663,Kazakhstan,Washington,10
+664,Kenya,Washington,2
+665,Kyrgyzstan,Washington,1
+666,Moldova,Washington,56
+667,Pakistan,Washington,3
+668,Russia,Washington,106
+669,Rwanda,Washington,5
+670,Senegal,Washington,3
+671,Somalia,Washington,9
+672,Sudan,Washington,3
+673,Ukraine,Washington,682
+674,Uzbekistan,Washington,4
+675,Vietnam,Washington,7
+677,Uganda,West Virginia,1
+679,Afghanistan,Wisconsin,7
+680,Burma,Wisconsin,232
+681,Dem. Rep. Congo,Wisconsin,48
+682,Eritrea,Wisconsin,1
+683,Honduras,Wisconsin,2
+684,Pakistan,Wisconsin,13
+685,Somalia,Wisconsin,17
