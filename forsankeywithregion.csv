@@ -1,0 +1,622 @@
+World Region,Country,target,value
+East Asia,Burma,Alabama,1
+East Asia,Burma,Arizona,58
+East Asia,Burma,California,37
+East Asia,Burma,Colorado,99
+East Asia,Burma,Connecticut,5
+East Asia,Burma,Florida,18
+East Asia,Burma,Georgia,153
+East Asia,Burma,Idaho,11
+East Asia,Burma,Illinois,214
+East Asia,Burma,Indiana,249
+East Asia,Burma,Iowa,106
+East Asia,Burma,Kansas,76
+East Asia,Burma,Kentucky,102
+East Asia,Burma,Louisiana,6
+East Asia,Burma,Maryland,23
+East Asia,Burma,Massachusetts,7
+East Asia,Burma,Michigan,88
+East Asia,Burma,Minnesota,292
+East Asia,Burma,Missouri,46
+East Asia,Burma,Nebraska,136
+East Asia,Burma,New Hampshire,16
+East Asia,Burma,New Jersey,5
+East Asia,Burma,New York,187
+East Asia,Burma,North Carolina,156
+East Asia,Burma,Ohio,36
+East Asia,Burma,Oklahoma,58
+East Asia,Burma,Oregon,64
+East Asia,Burma,Pennsylvania,28
+East Asia,Burma,South Carolina,8
+East Asia,Burma,South Dakota,23
+East Asia,Burma,Tennessee,37
+East Asia,Burma,Texas,361
+East Asia,Burma,Utah,28
+East Asia,Burma,Vermont,3
+East Asia,Burma,Washington,52
+East Asia,Burma,Wisconsin,232
+Africa,Dem. Rep. Congo,Alabama,25
+Africa,Dem. Rep. Congo,Arizona,455
+Africa,Dem. Rep. Congo,Arkansas,33
+Africa,Dem. Rep. Congo,California,95
+Africa,Dem. Rep. Congo,Colorado,100
+Africa,Dem. Rep. Congo,Connecticut,76
+Africa,Dem. Rep. Congo,Delaware,7
+Africa,Dem. Rep. Congo,Florida,215
+Africa,Dem. Rep. Congo,Georgia,194
+Africa,Dem. Rep. Congo,Idaho,177
+Africa,Dem. Rep. Congo,Illinois,158
+Africa,Dem. Rep. Congo,Indiana,95
+Africa,Dem. Rep. Congo,Iowa,197
+Africa,Dem. Rep. Congo,Kansas,159
+Africa,Dem. Rep. Congo,Kentucky,438
+Africa,Dem. Rep. Congo,Louisiana,4
+Africa,Dem. Rep. Congo,Maine,40
+Africa,Dem. Rep. Congo,Maryland,74
+Africa,Dem. Rep. Congo,Massachusetts,95
+Africa,Dem. Rep. Congo,Michigan,232
+Africa,Dem. Rep. Congo,Minnesota,67
+Africa,Dem. Rep. Congo,Mississippi,2
+Africa,Dem. Rep. Congo,Missouri,203
+Africa,Dem. Rep. Congo,Montana,58
+Africa,Dem. Rep. Congo,Nebraska,30
+Africa,Dem. Rep. Congo,Nevada,81
+Africa,Dem. Rep. Congo,New Hampshire,69
+Africa,Dem. Rep. Congo,New Jersey,38
+Africa,Dem. Rep. Congo,New Mexico,30
+Africa,Dem. Rep. Congo,New York,388
+Africa,Dem. Rep. Congo,North Carolina,326
+Africa,Dem. Rep. Congo,North Dakota,42
+Africa,Dem. Rep. Congo,Ohio,301
+Africa,Dem. Rep. Congo,Oklahoma,3
+Africa,Dem. Rep. Congo,Oregon,67
+Africa,Dem. Rep. Congo,Pennsylvania,222
+Africa,Dem. Rep. Congo,Rhode Island,39
+Africa,Dem. Rep. Congo,South Carolina,48
+Africa,Dem. Rep. Congo,South Dakota,24
+Africa,Dem. Rep. Congo,Tennessee,141
+Africa,Dem. Rep. Congo,Texas,565
+Africa,Dem. Rep. Congo,Utah,140
+Africa,Dem. Rep. Congo,Vermont,64
+Africa,Dem. Rep. Congo,Virginia,129
+Africa,Dem. Rep. Congo,Washington,17
+Africa,Dem. Rep. Congo,Wisconsin,48
+Latin America/Caribbean,El Salvador,Alabama,1
+Latin America/Caribbean,El Salvador,California,162
+Latin America/Caribbean,El Salvador,Colorado,5
+Latin America/Caribbean,El Salvador,Florida,27
+Latin America/Caribbean,El Salvador,Georgia,31
+Latin America/Caribbean,El Salvador,Indiana,6
+Latin America/Caribbean,El Salvador,Iowa,2
+Latin America/Caribbean,El Salvador,Maryland,69
+Latin America/Caribbean,El Salvador,Massachusetts,41
+Latin America/Caribbean,El Salvador,Minnesota,10
+Latin America/Caribbean,El Salvador,Nebraska,4
+Latin America/Caribbean,El Salvador,Nevada,4
+Latin America/Caribbean,El Salvador,New Jersey,16
+Latin America/Caribbean,El Salvador,New York,12
+Latin America/Caribbean,El Salvador,North Carolina,48
+Latin America/Caribbean,El Salvador,Ohio,9
+Latin America/Caribbean,El Salvador,Oregon,1
+Latin America/Caribbean,El Salvador,Pennsylvania,2
+Latin America/Caribbean,El Salvador,Rhode Island,1
+Latin America/Caribbean,El Salvador,South Dakota,4
+Latin America/Caribbean,El Salvador,Tennessee,7
+Latin America/Caribbean,El Salvador,Texas,69
+Latin America/Caribbean,El Salvador,Utah,2
+Latin America/Caribbean,El Salvador,Virginia,60
+Latin America/Caribbean,El Salvador,Washington,5
+Africa,Somalia,Alabama,3
+Africa,Somalia,Arizona,10
+Africa,Somalia,Colorado,6
+Africa,Somalia,Georgia,4
+Africa,Somalia,Illinois,5
+Africa,Somalia,Indiana,4
+Africa,Somalia,Kansas,11
+Africa,Somalia,Kentucky,9
+Africa,Somalia,Maine,6
+Africa,Somalia,Massachusetts,6
+Africa,Somalia,Michigan,3
+Africa,Somalia,Minnesota,80
+Africa,Somalia,Missouri,8
+Africa,Somalia,Nebraska,5
+Africa,Somalia,New Hampshire,8
+Africa,Somalia,New York,2
+Africa,Somalia,North Carolina,1
+Africa,Somalia,Ohio,11
+Africa,Somalia,Pennsylvania,1
+Africa,Somalia,Rhode Island,1
+Africa,Somalia,South Dakota,8
+Africa,Somalia,Tennessee,4
+Africa,Somalia,Texas,9
+Africa,Somalia,Utah,17
+Africa,Somalia,Virginia,2
+Africa,Somalia,Washington,9
+Africa,Somalia,Wisconsin,17
+East Asia,Vietnam,Alabama,3
+East Asia,Vietnam,California,4
+East Asia,Vietnam,Georgia,4
+East Asia,Vietnam,Illinois,6
+East Asia,Vietnam,Louisiana,4
+East Asia,Vietnam,Maryland,1
+East Asia,Vietnam,Missouri,5
+East Asia,Vietnam,North Carolina,5
+East Asia,Vietnam,South Carolina,4
+East Asia,Vietnam,Texas,12
+East Asia,Vietnam,Virginia,4
+East Asia,Vietnam,Washington,7
+Europe,Russia,Alaska,6
+Europe,Russia,California,61
+Europe,Russia,Colorado,9
+Europe,Russia,Connecticut,7
+Europe,Russia,Florida,28
+Europe,Russia,Idaho,12
+Europe,Russia,Illinois,5
+Europe,Russia,Massachusetts,11
+Europe,Russia,Minnesota,2
+Europe,Russia,New Jersey,8
+Europe,Russia,New York,64
+Europe,Russia,North Carolina,11
+Europe,Russia,Oklahoma,9
+Europe,Russia,Oregon,24
+Europe,Russia,Pennsylvania,6
+Europe,Russia,South Dakota,2
+Europe,Russia,Tennessee,4
+Europe,Russia,Virginia,2
+Europe,Russia,Washington,106
+Europe,Ukraine,Alaska,16
+Europe,Ukraine,Arkansas,8
+Europe,Ukraine,California,311
+Europe,Ukraine,Colorado,8
+Europe,Ukraine,Florida,35
+Europe,Ukraine,Georgia,12
+Europe,Ukraine,Idaho,18
+Europe,Ukraine,Illinois,42
+Europe,Ukraine,Indiana,18
+Europe,Ukraine,Kentucky,40
+Europe,Ukraine,Maryland,7
+Europe,Ukraine,Massachusetts,46
+Europe,Ukraine,Michigan,45
+Europe,Ukraine,Minnesota,34
+Europe,Ukraine,Missouri,31
+Europe,Ukraine,Nebraska,15
+Europe,Ukraine,New Hampshire,1
+Europe,Ukraine,New Jersey,3
+Europe,Ukraine,New York,150
+Europe,Ukraine,North Carolina,46
+Europe,Ukraine,North Dakota,7
+Europe,Ukraine,Ohio,101
+Europe,Ukraine,Oklahoma,2
+Europe,Ukraine,Oregon,140
+Europe,Ukraine,Pennsylvania,75
+Europe,Ukraine,South Carolina,18
+Europe,Ukraine,South Dakota,24
+Europe,Ukraine,Tennessee,17
+Europe,Ukraine,Virginia,4
+Europe,Ukraine,Washington,682
+Near East/South Asia,Afghanistan,Arizona,95
+Near East/South Asia,Afghanistan,California,111
+Near East/South Asia,Afghanistan,Colorado,20
+Near East/South Asia,Afghanistan,Connecticut,17
+Near East/South Asia,Afghanistan,Delaware,2
+Near East/South Asia,Afghanistan,Florida,11
+Near East/South Asia,Afghanistan,Georgia,35
+Near East/South Asia,Afghanistan,Idaho,6
+Near East/South Asia,Afghanistan,Illinois,22
+Near East/South Asia,Afghanistan,Kansas,10
+Near East/South Asia,Afghanistan,Maryland,28
+Near East/South Asia,Afghanistan,Massachusetts,13
+Near East/South Asia,Afghanistan,Michigan,40
+Near East/South Asia,Afghanistan,Missouri,12
+Near East/South Asia,Afghanistan,Nebraska,6
+Near East/South Asia,Afghanistan,Nevada,18
+Near East/South Asia,Afghanistan,New Mexico,11
+Near East/South Asia,Afghanistan,New York,46
+Near East/South Asia,Afghanistan,North Carolina,23
+Near East/South Asia,Afghanistan,North Dakota,10
+Near East/South Asia,Afghanistan,Ohio,28
+Near East/South Asia,Afghanistan,Oregon,3
+Near East/South Asia,Afghanistan,Pennsylvania,8
+Near East/South Asia,Afghanistan,Rhode Island,4
+Near East/South Asia,Afghanistan,South Carolina,4
+Near East/South Asia,Afghanistan,Tennessee,2
+Near East/South Asia,Afghanistan,Texas,45
+Near East/South Asia,Afghanistan,Utah,5
+Near East/South Asia,Afghanistan,Virginia,45
+Near East/South Asia,Afghanistan,Wisconsin,7
+Near East/South Asia,Algeria,Arizona,1
+Near East/South Asia,Bhutan,Arizona,18
+Near East/South Asia,Bhutan,California,3
+Near East/South Asia,Bhutan,Colorado,31
+Near East/South Asia,Bhutan,Connecticut,3
+Near East/South Asia,Bhutan,Florida,3
+Near East/South Asia,Bhutan,Georgia,104
+Near East/South Asia,Bhutan,Idaho,20
+Near East/South Asia,Bhutan,Illinois,20
+Near East/South Asia,Bhutan,Iowa,59
+Near East/South Asia,Bhutan,Kansas,10
+Near East/South Asia,Bhutan,Kentucky,94
+Near East/South Asia,Bhutan,Maryland,18
+Near East/South Asia,Bhutan,Massachusetts,51
+Near East/South Asia,Bhutan,Michigan,87
+Near East/South Asia,Bhutan,Minnesota,28
+Near East/South Asia,Bhutan,Missouri,9
+Near East/South Asia,Bhutan,Nebraska,109
+Near East/South Asia,Bhutan,Nevada,8
+Near East/South Asia,Bhutan,New Hampshire,30
+Near East/South Asia,Bhutan,New York,115
+Near East/South Asia,Bhutan,North Carolina,68
+Near East/South Asia,Bhutan,North Dakota,96
+Near East/South Asia,Bhutan,Ohio,619
+Near East/South Asia,Bhutan,Oregon,23
+Near East/South Asia,Bhutan,Pennsylvania,255
+Near East/South Asia,Bhutan,South Dakota,65
+Near East/South Asia,Bhutan,Tennessee,44
+Near East/South Asia,Bhutan,Texas,81
+Near East/South Asia,Bhutan,Utah,14
+Near East/South Asia,Bhutan,Vermont,54
+Near East/South Asia,Bhutan,Virginia,38
+Near East/South Asia,Bhutan,Washington,27
+Africa,Burundi,Arizona,12
+Africa,Burundi,California,1
+Africa,Burundi,Florida,8
+Africa,Burundi,Georgia,5
+Africa,Burundi,Idaho,5
+Africa,Burundi,Illinois,9
+Africa,Burundi,Indiana,1
+Africa,Burundi,Kentucky,10
+Africa,Burundi,Massachusetts,4
+Africa,Burundi,Michigan,8
+Africa,Burundi,Missouri,4
+Africa,Burundi,New Jersey,1
+Africa,Burundi,New Mexico,10
+Africa,Burundi,New York,22
+Africa,Burundi,Oregon,4
+Africa,Burundi,Rhode Island,2
+Africa,Burundi,Tennessee,11
+Africa,Burundi,Texas,24
+Africa,Burundi,Virginia,2
+Africa,Central African Republic,Arizona,6
+Africa,Central African Republic,California,6
+Africa,Central African Republic,Colorado,4
+Africa,Central African Republic,Delaware,3
+Africa,Central African Republic,Florida,2
+Africa,Central African Republic,Georgia,11
+Africa,Central African Republic,Illinois,6
+Africa,Central African Republic,Louisiana,6
+Africa,Central African Republic,Massachusetts,8
+Africa,Central African Republic,Michigan,2
+Africa,Central African Republic,New York,3
+Africa,Central African Republic,North Carolina,13
+Africa,Central African Republic,Ohio,1
+Africa,Central African Republic,Oregon,7
+Africa,Central African Republic,Pennsylvania,2
+Africa,Central African Republic,Utah,5
+Africa,Central African Republic,Washington,9
+Latin America/Caribbean,Colombia,Arizona,2
+Latin America/Caribbean,Colombia,Florida,15
+Latin America/Caribbean,Colombia,Georgia,2
+Latin America/Caribbean,Colombia,Illinois,1
+Latin America/Caribbean,Colombia,Nevada,1
+Latin America/Caribbean,Colombia,New Jersey,8
+Latin America/Caribbean,Colombia,North Carolina,5
+Latin America/Caribbean,Colombia,Rhode Island,3
+Latin America/Caribbean,Colombia,Tennessee,7
+Latin America/Caribbean,Colombia,Texas,1
+Latin America/Caribbean,Colombia,Virginia,2
+Africa,Eritrea,Arizona,72
+Africa,Eritrea,California,16
+Africa,Eritrea,Colorado,44
+Africa,Eritrea,Connecticut,5
+Africa,Eritrea,District of Columbia,1
+Africa,Eritrea,Florida,64
+Africa,Eritrea,Georgia,36
+Africa,Eritrea,Idaho,35
+Africa,Eritrea,Illinois,42
+Africa,Eritrea,Indiana,16
+Africa,Eritrea,Iowa,68
+Africa,Eritrea,Kansas,22
+Africa,Eritrea,Kentucky,15
+Africa,Eritrea,Louisiana,5
+Africa,Eritrea,Maine,1
+Africa,Eritrea,Maryland,50
+Africa,Eritrea,Massachusetts,13
+Africa,Eritrea,Michigan,19
+Africa,Eritrea,Minnesota,23
+Africa,Eritrea,Missouri,32
+Africa,Eritrea,Montana,27
+Africa,Eritrea,Nevada,31
+Africa,Eritrea,New Jersey,2
+Africa,Eritrea,New York,54
+Africa,Eritrea,North Carolina,50
+Africa,Eritrea,Ohio,53
+Africa,Eritrea,Oklahoma,6
+Africa,Eritrea,Oregon,1
+Africa,Eritrea,Pennsylvania,41
+Africa,Eritrea,Rhode Island,9
+Africa,Eritrea,South Carolina,5
+Africa,Eritrea,South Dakota,25
+Africa,Eritrea,Tennessee,9
+Africa,Eritrea,Texas,74
+Africa,Eritrea,Utah,23
+Africa,Eritrea,Virginia,15
+Africa,Eritrea,Washington,38
+Africa,Eritrea,Wisconsin,1
+Africa,Ethiopia,Arizona,25
+Africa,Ethiopia,Arkansas,2
+Africa,Ethiopia,California,1
+Africa,Ethiopia,Colorado,5
+Africa,Ethiopia,Connecticut,6
+Africa,Ethiopia,Florida,12
+Africa,Ethiopia,Georgia,5
+Africa,Ethiopia,Idaho,4
+Africa,Ethiopia,Illinois,1
+Africa,Ethiopia,Iowa,4
+Africa,Ethiopia,Kentucky,1
+Africa,Ethiopia,Maine,5
+Africa,Ethiopia,Maryland,9
+Africa,Ethiopia,Massachusetts,6
+Africa,Ethiopia,Michigan,5
+Africa,Ethiopia,Minnesota,67
+Africa,Ethiopia,Missouri,5
+Africa,Ethiopia,Nebraska,9
+Africa,Ethiopia,Nevada,5
+Africa,Ethiopia,New York,7
+Africa,Ethiopia,North Carolina,3
+Africa,Ethiopia,Ohio,2
+Africa,Ethiopia,Oregon,4
+Africa,Ethiopia,Pennsylvania,15
+Africa,Ethiopia,South Dakota,12
+Africa,Ethiopia,Tennessee,1
+Africa,Ethiopia,Texas,6
+Africa,Ethiopia,Utah,15
+Africa,Ethiopia,Virginia,1
+Africa,Ethiopia,Washington,10
+Africa,Guinea,Arizona,2
+Africa,Guinea,Idaho,1
+Africa,Guinea,Massachusetts,2
+Africa,Guinea,Michigan,2
+Africa,Guinea,Utah,3
+Near East/South Asia,Iraq,Arizona,5
+Near East/South Asia,Iraq,California,12
+Near East/South Asia,Iraq,Colorado,3
+Near East/South Asia,Iraq,Illinois,19
+Near East/South Asia,Iraq,Indiana,1
+Near East/South Asia,Iraq,Kentucky,3
+Near East/South Asia,Iraq,Louisiana,1
+Near East/South Asia,Iraq,Maine,9
+Near East/South Asia,Iraq,Massachusetts,4
+Near East/South Asia,Iraq,Michigan,8
+Near East/South Asia,Iraq,Minnesota,1
+Near East/South Asia,Iraq,Missouri,1
+Near East/South Asia,Iraq,Nebraska,6
+Near East/South Asia,Iraq,Nevada,3
+Near East/South Asia,Iraq,New Jersey,1
+Near East/South Asia,Iraq,New York,1
+Near East/South Asia,Iraq,North Carolina,2
+Near East/South Asia,Iraq,Ohio,5
+Near East/South Asia,Iraq,Oregon,3
+Near East/South Asia,Iraq,Rhode Island,3
+Near East/South Asia,Iraq,Tennessee,4
+Near East/South Asia,Iraq,Texas,21
+Near East/South Asia,Iraq,Utah,1
+Near East/South Asia,Iraq,Virginia,4
+Near East/South Asia,Iraq,Washington,4
+Africa,Ivory Coast,Arizona,1
+Africa,Ivory Coast,California,1
+Africa,Ivory Coast,Ohio,3
+Africa,Ivory Coast,Pennsylvania,3
+Africa,Ivory Coast,Texas,4
+Africa,Ivory Coast,Virginia,1
+Near East/South Asia,Jordan,Arizona,1
+Africa,Liberia,Arizona,1
+Africa,Liberia,Ohio,2
+Africa,Liberia,Pennsylvania,2
+Africa,Liberia,Rhode Island,1
+Europe,Moldova,Arizona,1
+Europe,Moldova,California,77
+Europe,Moldova,Georgia,2
+Europe,Moldova,Illinois,9
+Europe,Moldova,Maryland,1
+Europe,Moldova,Massachusetts,15
+Europe,Moldova,Minnesota,2
+Europe,Moldova,New Jersey,4
+Europe,Moldova,New York,5
+Europe,Moldova,North Carolina,4
+Europe,Moldova,Oregon,17
+Europe,Moldova,Washington,56
+Near East/South Asia,Pakistan,Arizona,42
+Near East/South Asia,Pakistan,California,24
+Near East/South Asia,Pakistan,Colorado,3
+Near East/South Asia,Pakistan,Delaware,3
+Near East/South Asia,Pakistan,Florida,8
+Near East/South Asia,Pakistan,Georgia,13
+Near East/South Asia,Pakistan,Idaho,4
+Near East/South Asia,Pakistan,Indiana,2
+Near East/South Asia,Pakistan,Maryland,38
+Near East/South Asia,Pakistan,Michigan,13
+Near East/South Asia,Pakistan,Missouri,7
+Near East/South Asia,Pakistan,Nevada,2
+Near East/South Asia,Pakistan,New Jersey,22
+Near East/South Asia,Pakistan,New York,26
+Near East/South Asia,Pakistan,North Carolina,20
+Near East/South Asia,Pakistan,Ohio,24
+Near East/South Asia,Pakistan,Oregon,4
+Near East/South Asia,Pakistan,Pennsylvania,34
+Near East/South Asia,Pakistan,Tennessee,2
+Near East/South Asia,Pakistan,Texas,34
+Near East/South Asia,Pakistan,Utah,3
+Near East/South Asia,Pakistan,Virginia,17
+Near East/South Asia,Pakistan,Washington,3
+Near East/South Asia,Pakistan,Wisconsin,13
+Africa,Senegal,Arizona,1
+Africa,Senegal,Colorado,2
+Africa,Senegal,Massachusetts,1
+Africa,Senegal,Michigan,1
+Africa,Senegal,Minnesota,1
+Africa,Senegal,Nevada,4
+Africa,Senegal,Texas,1
+Africa,Senegal,Washington,3
+Latin America/Caribbean,Honduras,Arkansas,1
+Latin America/Caribbean,Honduras,California,12
+Latin America/Caribbean,Honduras,Florida,5
+Latin America/Caribbean,Honduras,Georgia,2
+Latin America/Caribbean,Honduras,Louisiana,2
+Latin America/Caribbean,Honduras,Maryland,1
+Latin America/Caribbean,Honduras,Massachusetts,3
+Latin America/Caribbean,Honduras,New York,7
+Latin America/Caribbean,Honduras,Oklahoma,2
+Latin America/Caribbean,Honduras,Tennessee,5
+Latin America/Caribbean,Honduras,Texas,10
+Latin America/Caribbean,Honduras,Virginia,2
+Latin America/Caribbean,Honduras,Wisconsin,2
+Europe,Armenia,California,57
+Europe,Azerbaijan,California,2
+Europe,Belarus,California,44
+Europe,Belarus,Massachusetts,16
+Europe,Belarus,Minnesota,15
+Europe,Belarus,New York,21
+Europe,Belarus,North Carolina,7
+Europe,Belarus,Pennsylvania,9
+Europe,Belarus,South Carolina,13
+Europe,Belarus,Washington,23
+Latin America/Caribbean,Guatemala,California,7
+Latin America/Caribbean,Guatemala,Connecticut,3
+Latin America/Caribbean,Guatemala,Florida,8
+Latin America/Caribbean,Guatemala,Massachusetts,2
+Latin America/Caribbean,Guatemala,Minnesota,1
+Latin America/Caribbean,Guatemala,New Jersey,8
+Latin America/Caribbean,Guatemala,North Carolina,2
+Near East/South Asia,Iran,California,19
+Near East/South Asia,Iran,Colorado,1
+Near East/South Asia,Iran,Nevada,3
+Near East/South Asia,Iran,Oregon,1
+Near East/South Asia,Iran,Texas,8
+Near East/South Asia,Iran,Washington,3
+Europe,Kazakhstan,California,4
+Europe,Kazakhstan,Maryland,2
+Europe,Kazakhstan,Minnesota,9
+Europe,Kazakhstan,Oregon,1
+Europe,Kazakhstan,Washington,10
+East Asia,"Korea, North",California,2
+East Asia,"Korea, North",Utah,1
+Africa,Rwanda,California,9
+Africa,Rwanda,Colorado,1
+Africa,Rwanda,Florida,4
+Africa,Rwanda,Georgia,4
+Africa,Rwanda,Illinois,4
+Africa,Rwanda,Iowa,1
+Africa,Rwanda,Kentucky,9
+Africa,Rwanda,Michigan,2
+Africa,Rwanda,New Mexico,2
+Africa,Rwanda,North Carolina,3
+Africa,Rwanda,Ohio,3
+Africa,Rwanda,Pennsylvania,13
+Africa,Rwanda,Tennessee,7
+Africa,Rwanda,Texas,16
+Africa,Rwanda,Utah,5
+Africa,Rwanda,Washington,5
+Near East/South Asia,Sri Lanka (Ceylon),California,23
+Near East/South Asia,Sri Lanka (Ceylon),Florida,3
+Near East/South Asia,Sri Lanka (Ceylon),Maryland,1
+Near East/South Asia,Sri Lanka (Ceylon),Massachusetts,1
+Near East/South Asia,Sri Lanka (Ceylon),Michigan,1
+Near East/South Asia,Sri Lanka (Ceylon),Minnesota,1
+Near East/South Asia,Sri Lanka (Ceylon),New Jersey,11
+Near East/South Asia,Sri Lanka (Ceylon),New York,5
+Near East/South Asia,Sri Lanka (Ceylon),North Carolina,1
+Near East/South Asia,Sri Lanka (Ceylon),Oregon,1
+Near East/South Asia,Syria,California,12
+Near East/South Asia,Syria,Connecticut,4
+Near East/South Asia,Syria,Florida,7
+Near East/South Asia,Syria,Georgia,6
+Near East/South Asia,Syria,Illinois,3
+Near East/South Asia,Syria,Massachusetts,1
+Near East/South Asia,Syria,Michigan,3
+Near East/South Asia,Syria,Nevada,3
+Near East/South Asia,Syria,New York,6
+Near East/South Asia,Syria,North Carolina,2
+Near East/South Asia,Syria,Ohio,2
+Near East/South Asia,Syria,Oregon,4
+Near East/South Asia,Syria,Texas,1
+Near East/South Asia,Syria,Virginia,2
+Africa,Uganda,California,7
+Africa,Uganda,Colorado,1
+Africa,Uganda,Illinois,2
+Africa,Uganda,Maryland,1
+Africa,Uganda,Massachusetts,1
+Africa,Uganda,New York,1
+Africa,Uganda,North Carolina,2
+Africa,Uganda,Ohio,3
+Africa,Uganda,Oregon,1
+Africa,Uganda,Pennsylvania,1
+Africa,Uganda,Texas,2
+Africa,Uganda,West Virginia,1
+Europe,Uzbekistan,California,6
+Europe,Uzbekistan,Massachusetts,1
+Europe,Uzbekistan,New York,4
+Europe,Uzbekistan,Ohio,7
+Europe,Uzbekistan,Washington,4
+Near East/South Asia,Bangladesh,Colorado,2
+Africa,Cameroon,Colorado,2
+Africa,Cameroon,Illinois,1
+Africa,Cameroon,Michigan,2
+Africa,Cameroon,Nevada,3
+Africa,Cameroon,Pennsylvania,1
+Africa,Cameroon,South Carolina,4
+Africa,Cameroon,Texas,1
+Africa,Cameroon,Washington,1
+Africa,Congo,Florida,3
+Africa,Congo,Missouri,1
+Latin America/Caribbean,Jamaica,Florida,1
+Near East/South Asia,Saudi Arabia,Florida,1
+Africa,Sudan,Florida,1
+Africa,Sudan,Idaho,2
+Africa,Sudan,Illinois,3
+Africa,Sudan,Indiana,9
+Africa,Sudan,Iowa,9
+Africa,Sudan,Maryland,8
+Africa,Sudan,Michigan,3
+Africa,Sudan,Missouri,1
+Africa,Sudan,New York,2
+Africa,Sudan,North Carolina,8
+Africa,Sudan,South Dakota,1
+Africa,Sudan,Tennessee,1
+Africa,Sudan,Texas,10
+Africa,Sudan,Washington,3
+Near East/South Asia,Nepal,Georgia,1
+Near East/South Asia,Nepal,Iowa,1
+Near East/South Asia,Nepal,Kentucky,3
+Near East/South Asia,Nepal,Massachusetts,1
+Near East/South Asia,Nepal,Michigan,1
+Near East/South Asia,Nepal,New Hampshire,1
+Near East/South Asia,Nepal,Texas,3
+Africa,Niger,Georgia,1
+Africa,Niger,Nevada,1
+Africa,Republic of South Sudan,Georgia,1
+Africa,Republic of South Sudan,Massachusetts,4
+Africa,Republic of South Sudan,Ohio,6
+Africa,Republic of South Sudan,Oregon,1
+East Asia,China,Illinois,1
+East Asia,China,New York,3
+East Asia,China,Washington,1
+Africa,Zimbabwe,Illinois,1
+Africa,Zimbabwe,Tennessee,3
+Africa,Zimbabwe,Texas,8
+Africa,South Africa,Indiana,1
+East Asia,New Zealand,Kentucky,5
+Near East/South Asia,Egypt,Massachusetts,1
+Africa,Nigeria,Michigan,1
+Near East/South Asia,Kuwait,Minnesota,1
+Europe,Kyrgyzstan,New Jersey,1
+Europe,Kyrgyzstan,Ohio,2
+Europe,Kyrgyzstan,Pennsylvania,2
+Europe,Kyrgyzstan,Washington,1
+Africa,Chad,New York,1
+Near East/South Asia,India,New York,1
+East Asia,Philippines,New York,1
+Africa,Angola,North Dakota,1
+Near East/South Asia,Libya,Pennsylvania,1
+Europe,Turkmenistan,Pennsylvania,5
+Africa,Djibouti,Washington,1
+Africa,Kenya,Washington,2
